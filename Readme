@@ -1,0 +1,9 @@
+DOKUMENTASİYA
+ Potman collection faylı proyekt daxilinə əlavə olunub
+ proyektə swagger open api əlavə olunub(SwaggerConfig tipli bir class yazılmayıb
+ lazımi dependency əlavə olunub və http://localhost:8888/swagger-ui/index.htmlsorğusu zamanı APİ lər görsənir)
+
+RUN
+ docker-compose daxilində ediləcək dəyişikliklər sayəsində postgres dockerdə run olmalıdır.
+ Proyekti isə localda run etmək lazımdır
+ 
